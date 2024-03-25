@@ -15,7 +15,7 @@ In this project, I analyzed the dataset of a Digital Music Store to answer a set
 
 ## Schema- Music Store Database
 
-![App Screenshot](<img width="594" alt="schema_diagram" src="https://github.com/sunitabisht22/SQL_Music_Store_Analysis/assets/84614536/14f290d1-8c6f-4f48-812a-428373005fb1">)
+<img width="594" alt="schema_diagram" src="https://github.com/sunitabisht22/SQL_Music_Store_Analysis/assets/84614536/6a41d842-7461-48fe-8a42-abc76e68c9e9">
 
 
 ## INSIGHTS: 
